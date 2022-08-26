@@ -1,12 +1,11 @@
 # kodluyouruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true
 ## Installation
 ---
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-git clone [https://github.com/hsnaz/kodluyouruzilkrepo.git](https://github.com/hsnaz/kodluyouruzilkrepo.git)
+git clone https://github.com/hsnaz/kodluyouruzilkrepo.git
 
 ## Usage
 ---
